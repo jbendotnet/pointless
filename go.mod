@@ -1,4 +1,4 @@
-module github.com/jbendotnet/pointless/two
+module github.com/jbendotnet/pointless
 
 require (
 	github.com/go-kit/kit v0.7.0
